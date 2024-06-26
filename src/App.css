@@ -1,0 +1,58 @@
+.body{
+    background: #040C18;
+}
+.navigation{
+    background: linear-gradient(to right, #002853 ,#040a14,#040C18 )  ;
+    background-size: cover;
+}
+.signupbtn{
+    background-color: #FF4820 !important;
+}
+.bodyimage{
+    margin-left: 50px; 
+    max-width: 95%;
+}
+.image1{
+    max-width: 90%; 
+}
+.body2image{
+    max-width: 95%;
+}
+.gptimg{
+    max-width: 95%; 
+}
+.featureimg{ 
+    max-width: 100%;
+    margin-left:50px ;
+}
+.feature{
+    max-width: 80%;
+}
+.feature2{
+    max-width: 95%;
+}
+.blog{
+    max-width: 80%;
+}
+.footerimg{
+    max-width: 105%;
+    margin-left: -5%;
+    background:  #031B34;
+    background-size: cover;
+    object-fit: cover;
+}
+
+@media (min-width:350px) and (max-width:992px) {
+    .bodyimage,.image1{
+        width: 85%;
+    }
+    .body2image,.gptimg{
+        width: 90%;
+    }
+    .featureimg,.feature,.feature2{
+        width: 85%;
+    }
+    .footerimg{
+        width: 100%;
+    }
+}
