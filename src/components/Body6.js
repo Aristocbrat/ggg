@@ -20,7 +20,7 @@ const Body6 = () => {
        <span className='spanner text-white'>Sep 26, 2021</span><br/>
        <span className='pa y text-white  w-25'>
         GPT-3 and Open  AI is the future. Let us exlore how it is?</span>
-        <p className='rfp oc text-white'>Read Full Article</p>
+        <p className='rfp oc pt-2 text-white'>Read Full Article</p>
         </div>
   </div>
   <div className='w-25 cand pb-5  pb-lg-0'>
