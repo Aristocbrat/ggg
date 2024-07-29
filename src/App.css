@@ -438,7 +438,8 @@ a:hover{
     margin-top: 4%;
   }
   .rea{
-    width: 100%;
+    margin-left: -55%;
+    width: 200px;
   }
   .bbn{
     width:100%;
@@ -577,11 +578,39 @@ a:hover{
     }
     .popo{
         background-color: #0e3164 !important;
+        width: 100%;
+        border: transparent;
     }
     .thirdPage{
         margin-top: 50%;
     }
+    .request{
+        margin-left: 15%;
+    }
+    .gsb{
+        width: 60%;
+        margin-top: -4%;
+    }
+    .future{
+        margin-left: -10%;
+    }
     .fourthPage{
         margin-top: 50%;
+    }
+    .lastPage{
+        padding: 0 15px;
+        margin-top: -10%;
+    }
+    .lassp{
+        margin: 0 auto;
+        font-size: 13px;
+    }
+    .rea{
+        margin-left: -60%;
+        width: 200px;
+    }
+    .ll{
+        margin-left: 9%;
+        width: 80%;
     }
 }

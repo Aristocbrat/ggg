@@ -9,7 +9,7 @@ const Body5 = () => {
         <a href='#' className='text-decoration-none text-black '>Request Early Access to Get Started</a>
         <p className='fw-bold fs-lg-4 req'>Register today & start exploring the endless possiblities.</p>
         </div>
-        <button className=' btn bg-black text-white rounded-5 px-lg-5 py-lg-2   '>Get started</button>
+        <button className=' btn bg-black text-white rounded-5 px-lg-5 py-lg-2  gsb '>Get started</button>
       
       </div>
      <div>
