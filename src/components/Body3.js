@@ -1,18 +1,48 @@
 import React from 'react'
-import feature from './../assests/images/Feature.png'
-import feature2 from './../assests/images/feature2.png'
-import cta from './../assests/images/CTA.png'
-import blog from './../assests/images/Blog.png'
-import footer from './../assests/images/Footer.png'
+import rect from './../assests/images/Rect.png'
+
 
 const Body3 = () => {
   return (
-    <div className='featureimg px-lg-4'>
-      <img src={feature} alt="featureimg" className='feature mx-lg-5 d-flex py-lg-5 ps-lg-4 justify-content-center'/>
-      <img src={feature2} alt='feature2img' className='feature2 mx-lg-5 d-flex py-lg-5 ps-lg-4 py-3 justify-content-center '/>
-      <img src={cta} alt='ctaimg' className='feature2 mx-lg-5 d-flex py-lg-5 ps-lg-4 py-3 justify-content-center blog '/>
-      <img src={blog} alt='blog' className='feature2 mx-lg-5 d-flex py-lg-5 ps-lg-4 py-3 justify-content-center blog'/>
-      <img src={footer} alt='footer' className='feature2  d-flex py-lg-5  py-3 justify-content-center blog footerimg'/>
+    <div className='thirdPage mt-lg-5 '>
+       <div className='trifext d-flex flex-lg-row flex-column  '>
+        <div>
+          <p className='future fw-semibold  py-3 py-lg-0 px-5 px-lg-0'>
+          The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
+          </p>
+          <a href='#' className='request mt-lg-5 pt-5 '>Request Early Access to Get Started</a>
+        </div>
+        <div className='all d-flex flex-column py-md-4 flex-wrap flex-md-row justify-content-md-between'>
+          <div firstline>
+          <img src={rect} className='pt-2 mx-auto mx-lg-0' alt='rectangle'/>
+          <p className='text-white pple mx-auto mx-lg-0 pt-md-3'>Improving end distrusts instantly </p>
+          </div>
+          <div firstline>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0' alt='rectangle'/>
+          <p className='text-white ppl pt-3 mx-auto mx-lg-0 '>Become the tended active</p>
+          </div>
+          <div firstline>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0'  alt='rectangle'/>
+          <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Message or am nothing</p>
+          </div>
+          <div firstline>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0' alt='rectangle'/>
+          <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Really boy law county</p>
+          </div>
+        </div>
+        <div className='from  d-flex flex-column gap-4 mt-lg-2 '>
+          <p className='tt w-75 mx-auto mx-md-auto mx-lg-0'>From they fine john he give of rich he. 
+            They age and draw mrs like.
+             Improving end distrusts may instantly was household applauded.</p>
+          <p className='tt w-75 mx-auto mx-lg-0'>Considered sympathize ten uncommonly occasional assistance sufficient not.
+             Letter of on become he tended active enable to.</p>
+          <p className='tt w-75 mx-auto mx-lg-0'>Led ask possible mistress relation elegance eat likewise debating.
+             By message or am nothing amongst chiefly address.</p>
+          <p className='tt w-75 mx-auto mx-lg-0'>Really boy law county she unable her sister.
+             Feet you off its like like six. Among sex are leave law built now. 
+             In built table in an rapid blush.</p>
+        </div>
+       </div>
     </div>
   )
 }

@@ -1,5 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+*{
+    font-family: "Manrope", sans-serif;
+}
 .body{
     background: #040C18;
+}
+.footer{
+    background: #031B34;
 }
 .navigation{
     background: linear-gradient(to right, #002853 ,#040a14,#040C18 )  ;
@@ -8,51 +18,570 @@
 .signupbtn{
     background-color: #FF4820 !important;
 }
-.bodyimage{
-    margin-left: 50px; 
+.btn:hover{
+    background-color: green !important;
+    transition: ease-in-out 0.4s ;
+}
+a:hover{
+    color: green;
+    transform: scale(1.4) !important;
+    transition: all ease-in-out 0.4s;
+}
+.firstpage{
     max-width: 95%;
+    height: 100vh;
 }
-.image1{
-    max-width: 90%; 
+.letsbuild{
+ background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ margin-left: 3%;
+ font-size: 45px;
+ width: 600px;
+ line-height: 1.2
 }
-.body2image{
-    max-width: 95%;
+.line1, .line2, .line3 {
+   max-width: 90%;
+  }
+.headill{
+    height: 700px;
+    width: 700px;
+    margin-top: -4%;
+    margin-left: 42%;
 }
-.gptimg{
-    max-width: 95%; 
+.textSub{
+    width: 38%;
+    margin-top: -28%;
+    margin-left: 5%;
+    color: 
+    rgba(129, 175, 221, 1);
 }
-.featureimg{ 
-    max-width: 100%;
-    margin-left:50px ;
+.form{
+    width: 600px;
+    margin-top: -28%;
 }
-.feature{
-    max-width: 80%;
+.groupfoto{
+    margin-top: -10%;
 }
-.feature2{
-    max-width: 95%;
+.spantexts{
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: -1.5%;
 }
-.blog{
-    max-width: 80%;
+.clogo{
+    margin-top: 3%;
+    margin-left: -4.5%;
 }
-.footerimg{
-    max-width: 105%;
-    margin-left: -5%;
-    background:  #031B34;
-    background-size: cover;
-    object-fit: cover;
+.secondPage {
+    width: 90%;
+    height: 84vh;
+    background: linear-gradient(to right,#0e3164,#0a182e ,#0e3164); 
+    background-blend-mode: lighten;
+} 
+.ppt{
+    margin-top: -3%;
+}
+.gpttext{
+    color: #81AFDD;
+    margin-top: -4%;
+}
+.poss{
+    font-size: 2.8rem;
+}
+.poss,.explore,.future,.request,.beyond,.alot{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tri{
+    width: 100%;
+}
+.request{
+    font-size: 12px;
+}
+.po{
+    width: 380px;
+}
+.opinion,.early{
+     color: #81AFDD;
+     font-size: 12px;
+}
+.onep{
+    width: 150px;
+}
+.thirdPage{
+    width: 100%;
+    height: 100vh
+}
+.trifext{
+    margin-left: 5%;
+    width: 90%;
+    gap: 12rem;
+}
+.future{
+    font-size: 30px;
+    width:390px ;
+}
+.tt{
+    color: #81AFDD;
+    font-size: 14px;
+}
+.pple{
+    width: 150px;
+}
+.ppl{
+    width: 120px;
+}
+.wom{
+    width: 550px;
+}
+.evr4{
+    margin-top: -12%;
+}
+.yy{
+    width: 350px;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.ctaa{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    width: 85%;
+    height: 120px;
+    margin-left: 5%;
+}
+.sixthPage{
+    margin-top: 15%;
+}
+.yet{
+    color: #81AFDD;
+    font-size: 16px;
+}
+.gst{
+    color: #FF4820;
+    font-size: 12px;
+}
+.alot{
+    font-size: 40px;
+    width: 600px;
+}
+.fii{
+    width: 100%;
+}
+.a,.b{
+    width: 350px;
+}
+.b{
+    margin-top: 17%;
+    height: 300px;
+}
+.ba{
+    height: 300px;
+}
+.c,.d{
+    width: 300px;
+    height: 120px;
+}
+.cand{
+    margin-left: 12%;
+}
+.gand{
+    margin-left: 39%;
+    margin-top: -19%;
+}
+.eand{
+    margin-left: 5%;
+    margin-top: -19%;
+}
+.x{
+    font-size: 13px;
+    width: 50%;
+}
+.spanner{
+    font-size: 12px;
+}
+.dd{
+    margin-top: -22%;
+}
+.rfp{
+    font-size: 10px;
+    margin-top: 6%;
+}
+.ss{
+    width: 20%;
+    margin-top: -8%;
+}
+.dd{
+    margin-top: -20%;
+    width: 20%;
+}
+.oc{
+    margin-top: 73%;
+}
+.gt{
+    margin-top: -7%;
+}
+.lassp{
+    font-weight: 800;
+}
+.bbn{
+    font-size: 12px;
+}
+.ggff{
+    width: 75%;
+}
+.spanlist{
+    margin-left: 50%;
+    margin-top:-8%;
+}
+.spanlist ul li, .cren{
+    font-size: 10px;
+}
+.crenk{
+    width: 55%;
+}
+.ll{
+    margin-left: 40%;
+    width: 35%;
+}
+.e-g{
+    width: 500px;
+}
+.sin{
+    height: 70px;
+    background:#0a182e !important;
+    margin-left: 30%;
+    margin-top: -114%;
+}
+.transparent-border {
+    border: 1px solid transparent !important;
+}
+.getstarted{
+    background: #FF4820;
+    width: 174px;
+    margin-top: -50%;
+    height: 70px;
+    margin-left: 13%;
+    cursor: pointer !important;
+}
+.rfa{
+    margin-top: -3% !important;
+}
+.lassp{
+    padding-top: 10%;
 }
 
+
+
+
 @media (min-width:350px) and (max-width:992px) {
-    .bodyimage,.image1{
-        width: 85%;
+    .body{
+        background: #040C18;
     }
-    .body2image,.gptimg{
+    .letsbuild{
+        font-size: 15px;
+        margin:0 auto;
+    }
+    .e-g{
+        width: 70%;
+    }
+    .sin{
+        margin-top: -185%;
+        margin-left: 24%;
+        width:20px;
+        height: 40px;
+    }
+    .getstarted{
+        margin-top: -160%;
+        margin-left: 50%;
+        width: 40%;
+        height: 30px;
+    }
+    .headill{
+        width: 200px;
+        height: 200px;
+        margin: 70px 37px ; 
+    }
+    .subtext{
+        width: 100%;
+    }
+    .textSub{
+        margin: -100% 3% 0 4%;
+        font-size: 10px;
+        width: 90%; 
+    }
+    .groupfoto{
+        margin-top: -160%;
+    }
+    .future{
+        font-size: 12px;
+    }
+    .rexx{
+        font-size: 10px;
+    }
+    .spantexts{
+        margin-top: -82%;
+        margin-left: 5%;
+    }
+    .clogo{
+        margin-top: -115%;
+        margin-left: -10%;
+    }
+
+    .secondPage{
+        width: 100%;
+        height: 100vh;
+        margin-top: -50%;
+    }
+    .tri{
+        margin-left: auto;
+    }
+    .ppt{
+        margin-left: 25%;
+    }
+    .gpttext{
+        margin-left: 10%;
+    }
+    .onep{
         width: 90%;
     }
-    .featureimg,.feature,.feature2{
-        width: 85%;
+    .poss{
+        font-size: 15px;
     }
-    .footerimg{
+    .thirdPage{
+        background:#040C18 ;
+        height: 100vh;
+    }
+    .all{
+        margin-top: -30%;
+    }
+    .from{
+        margin-top: -40%;
+    }
+    .evr4{
+        margin-top: 330px;
         width: 100%;
+    }
+    .wom{
+        margin-left: 24%;
+        width: 90%;
+        margin-top: -2%;
+    }
+    .yy{
+        margin-top: 200%;
+        margin-left: 27%;
+        width: 50%;
+        height: 10%;
+    }
+    .beyond{
+        width: 100%;
+        font-size: 12px;
+    }
+    .ctaa{
+        margin-top: 130%;
+        height: 140px;
+    }
+    .req{
+        font-size: 12px;
+    }
+    .sixthPage{
+        margin-top: 40%;
+    }
+    .early,.beyond,.gst,.yet{
+        width: 100%;
+    }
+    
+    .alot{
+        font-size: 19px;
+        width: 80%;
+    }
+    .a{
+        margin-left: -4%;
+        height: 200px;
+        width: 320px;
+    }
+    .ba{
+        height: 150px;
+    }
+    
+    .and{
+        margin-left: 95%;
+    }
+    .gand,.cand{
+        margin-top: -6%;
+        margin-left: 6%;
+    }
+    
+    .eand{
+        margin-top: 3%;
+        margin-left: 6%;
+    }
+    .ss{
+        margin-top: -26%;
+        margin-left: -4%;
+        width: 50%;
+        height: 100px;
+        font-size: 5px;
+    }
+    .x,.y{
+        font-size: 7px;
+    }
+    .gt{
+        width: 200px;
+        margin-top: -20%;
+        margin-bottom: 22%;
+    }
+  .dd{
+    margin-top: -30%;
+    width: 50%;
+  }
+  .oc{
+    margin-top: 4%;
+  }
+  .rea{
+    width: 100%;
+  }
+  .bbn{
+    width:100%;
+  }
+  .ggff{
+    width: 100%;
+    
+  }
+  .mi{
+    margin-top: 15%;
+    width: 50%;
+  }
+  .spanlist{
+    margin-top: -30%;
+    margin-left: 36%;
+  }
+.lastPage{
+    margin-top: 20%;
+}   
+
+} 
+
+@media (min-width:700px) and (max-width:1000px) {
+    .letsbuild{
+        font-size: 30px;
+    }
+    .headill{
+        width:650px;
+        height: 600px;
+        margin-left: 5%;
+    }
+    .clogo{
+        margin-top: -175%;
+    }
+    .groupfoto{
+        margin-top: -251%;
+    }
+    .spantexts{
+        margin-top: -125%;
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .textSub{
+        font-size: 20px;
+        margin-top: -63%;
+        margin-left: 5%;
+    }
+    .e-g{
+        margin-top: 85%;
+        position: relative;
+    }
+    .secondPage{
+        margin-top: -70%;
+        height: 65vh;
+    }
+    .ppt{
+        margin-top: -12%;
+    }
+    .poss{
+        font-size: 27px;
+    }
+    .future{
+        width: 90%;
+    }
+    .from{
+        margin-top: -17%;
+    }
+    .evr4{
+        margin-top: -68%;
+        margin-left: -17%;
+    }
+    .yy{
+        margin-top: -40%;
+        width: 37%;
+        margin-left: 61%;
+    }
+    .ctaa{
+        margin-top:10%;
+    }
+    .alot{
+        width: 90%;
+        font-size: 30px;
+    }
+    .sixthPage{
+        margin-top: 29%;
+    }
+    .a,.b{
+        width: 550px;
+    }
+    .a{
+        height: 250px;
+    }
+    .ba{
+        height: 260px;
+    }
+
+    .c,.d{
+        width: 500px;
+        height: 180px;
+    }
+    .and{
+        padding-left: 10%;
+    }
+    .cand,.gand,.eand{
+        padding-left: 8%;
+    }
+    .e{
+        padding-left: 13%;
+    }
+    .ss{
+        padding-top: 8%;
+        margin-left: 1%;
+    }
+    .gt{
+        margin-top: -15%;
+    }
+    .lastPage{
+        margin-top: 8%;
+    }
+    .mi {
+        width: 50%;
+        margin-top: -6%;
+    }
+    .spanlist{
+        margin-top: -7%;
+    }
+    .lassp{
+        width: 70%;
+        margin-left: 20%;
+    }
+
+}
+@media (max-width:375px) {
+    .subtext{
+        margin-top: 50%;
+    }
+    .popo{
+        background-color: #0e3164 !important;
+    }
+    .thirdPage{
+        margin-top: 50%;
+    }
+    .fourthPage{
+        margin-top: 50%;
     }
 }
