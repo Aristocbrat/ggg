@@ -8,7 +8,7 @@ const Body2 = () => {
       <img src={rect} className="p-lg-5"  alt='rectangle'/>
       <div className='wigpt d-flex flex-column flex-lg-row justify-content-between px-lg-4 px-2'>
         <p className='fw-bold ppt text-white fs-lg-4 ms-lg-3 py-md-4'>What is GPT-3</p>
-        <p className=' gpttext w-75 px-lg-4 px-md-4 px-4 py-2 py-lg-0'>We so opinion friends me message as delight.
+        <p className=' gpttext w-75 px-lg-4 px-md-4 px-4 py-2  py-lg-0'>We so opinion friends me message as delight.
            Whole front do of plate heard oh ought. His defective nor convinced residence own. 
            Connection has put impossible own apartments boisterous.
             At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.</p>

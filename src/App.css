@@ -477,22 +477,25 @@ a:hover{
         margin-left: 5%;
     }
     .clogo{
-        margin-top: -175%;
+        margin-top: -145%;
     }
     .groupfoto{
-        margin-top: -251%;
+        margin-top: -173%;
     }
     .sin{
-        margin-top: -195%;
+        margin-top: -154%;
+    }
+    .getstarted{
+        margin-top: -135%;
     }
     .spantexts{
-        margin-top: -125%;
+        margin-top: -87%;
         margin-left: 10%;
         font-size: 15px;
     }
     .textSub{
         font-size: 20px;
-        margin-top: -63%;
+        margin-top: -45%;
         margin-left: 5%;
     }
     .e-g{
@@ -504,7 +507,7 @@ a:hover{
         height: 65vh;
     }
     .wigpt{
-        margin-top: 9%;
+        margin-top: 13%;
     }
     .ppt{
         margin-top: -12%;

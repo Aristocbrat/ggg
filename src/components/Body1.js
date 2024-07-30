@@ -25,7 +25,6 @@ const Body1 = () => {
          <form >
            <input  placeholder="Your email address" type="email"  className='sin   form-control  transparent-border ' data-aos="fade-up" data-aos-duration='1500' />
          </form>
-         {/* <input  placeholder="Your email address" type="email"  className='sin form-control ' /> */}
          <button className=' text-white getstarted d-flex align-content-center  pt-lg-4 justify-content-center  '>Get started</button>
          </div>
         

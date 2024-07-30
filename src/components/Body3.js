@@ -10,7 +10,7 @@ const Body3 = () => {
           <p className='future fw-semibold  py-3 py-lg-0 px-5 px-lg-0' data-aos="fade-up" data-aos-duration='1500'>
           The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
           </p>
-          <a href='#' className='request mt-lg-5 pt-5 '>Request Early Access to Get Started</a>
+          <a href='#' className='request mt-lg-5 pt-5  '>Request Early Access to Get Started</a>
         </div>
         <div className='all d-flex flex-column py-md-4 flex-wrap flex-md-row justify-content-md-between'>
           <div firstline>
