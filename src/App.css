@@ -460,6 +460,11 @@ a:hover{
     margin-top: 20%;
 }   
 
+.ll{
+    width: 200px;
+    margin-left: -4%;
+}
+
 } 
 
 @media (min-width:700px) and (max-width:1000px) {
