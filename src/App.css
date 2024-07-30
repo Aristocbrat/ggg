@@ -636,28 +636,4 @@ a:hover{
         width: 80%;
     }
 }
-@media (min-width:1024px) {
-    .textSub{
-        width: 80%;
-      
-        font-size: 28px;
-        margin-top: -100%;
-    }
-    .headill{
-        width: 400px;
-        height: 400px;
-        margin-right:0%;
-    }
-    .subtext{
-        width: 100%;
-    }
-    .subtext input{
-        margin-top: -150%;
-        width: 500px;
-        margin-left: 6%;
-    }
-    .subtext button{
-        margin-top: -150%;
-    }
-    
-}
+
