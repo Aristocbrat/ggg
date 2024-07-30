@@ -215,7 +215,7 @@ a:hover{
     width: 20%;
 }
 .oc{
-    margin-top: 70%;
+    margin-top: 60%;
 }
 .gt{
     margin-top: -7%;
@@ -467,7 +467,7 @@ a:hover{
 
 } 
 
-@media (min-width:700px) and (max-width:1000px) {
+@media (min-width:700px) and (max-width:1024px) {
     .letsbuild{
         font-size: 30px;
     }
@@ -481,6 +481,9 @@ a:hover{
     }
     .groupfoto{
         margin-top: -251%;
+    }
+    .sin{
+        margin-top: -195%;
     }
     .spantexts{
         margin-top: -125%;
@@ -499,6 +502,9 @@ a:hover{
     .secondPage{
         margin-top: -70%;
         height: 65vh;
+    }
+    .wigpt{
+        margin-top: 9%;
     }
     .ppt{
         margin-top: -12%;
@@ -549,7 +555,7 @@ a:hover{
         padding-left: 10%;
     }
     .cand,.gand,.eand{
-        padding-left: 8%;
+        padding-left: 10%;
     }
     .e{
         padding-left: 13%;
@@ -574,6 +580,10 @@ a:hover{
     .lassp{
         width: 70%;
         margin-left: 20%;
+    }
+    .ll{
+        width: 230px;
+        margin:0 auto;
     }
 
 }

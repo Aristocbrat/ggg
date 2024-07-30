@@ -18,7 +18,7 @@ const Body1 = () => {
       <img src={headill} className=' headill  position-absolute ' alt='header illustration' data-aos="fade-up" data-aos-duration='1500'/>
     </div>
     <div className='subtext px-lg-5 d-flex flex-column flex-md-row'>
-       <p className='textSub position-absolute  px-4 px-lg-0 '>Yet bed any for travelling assistance indulgence unpleasing. 
+       <p className='textSub position-absolute  px-4 px-lg-0 py-md-4'>Yet bed any for travelling assistance indulgence unpleasing. 
         Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.
          Party we years to order allow asked of.</p>
          <div className='d-flex e-g flex-column flex-lg-row flex-md-column bg-danger' >
