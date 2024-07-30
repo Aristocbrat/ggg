@@ -274,9 +274,9 @@ a:hover{
 
 
 @media (min-width:350px) and (max-width:992px) {
-    .body{
+    /* .body{
         background: #040C18;
-    }
+    } */
     .letsbuild{
         font-size: 15px;
         margin:0 auto;
@@ -362,7 +362,7 @@ a:hover{
         width: 100%;
     }
     .wom{
-        margin-left: 24%;
+        margin-left: 22%;
         width: 90%;
         margin-top: -2%;
     }
@@ -382,6 +382,10 @@ a:hover{
     }
     .req{
         font-size: 12px;
+    }
+    .gsb{
+        margin-top: -4%;
+        margin-left: 15%;
     }
     .sixthPage{
         margin-top: 40%;
@@ -462,7 +466,7 @@ a:hover{
 
 .ll{
     width: 200px;
-    margin-left: -4%;
+    margin-left: 24%;
 }
 
 } 
