@@ -11,7 +11,7 @@ import rectea from './../assests/images/Rectea.png'
 
 const Body6 = () => {
   return (
-  <div className='sixthPage  mx-auto px-4 d-flex flex-column flex-lg-row  gap-md-3 '>
+  <div className='sixthPage  mx-auto px-4 d-flex flex-column flex-lg-row flex-wrap gap-md-3 '>
     <div className=' w-25 ms-lg-5 ms-3  pb-5 pb-lg-0 and'>
        <img src={rectas} className='a' /> 
        <img src={rectb} className='a ba' /> 
