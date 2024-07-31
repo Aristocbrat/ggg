@@ -14,7 +14,7 @@ const Body7 = () => {
             <button className='btn text-white border-white ms-lg-4  rea'><span className='bbn'>Request Early Access</span></button>
          </div>
          <div>
-            <div className='w-100 mt-5 justify-content-between d-flex  flex-lg-row '>
+            <div className='w-100 mt-5 justify-content-between d-flex  flex-lg-row  flex-column'>
                 <div className='ggff  mx-lg-auto px-3 px-lg-0 '>
                     <div className='mi'>
                     <h4 className='text-white fw-bold'>GPT-3</h4>

@@ -4,6 +4,7 @@
 
 *{
     font-family: "Manrope", sans-serif;
+    box-sizing: border-box;
 }
 .body{
     background: #040C18;
@@ -149,8 +150,8 @@ a:hover{
     height: 120px;
     margin-left: 5%;
 }
-.sixthPage{
-    margin-top: 15%;
+.six{
+    margin-top: 17%;
 }
 .yet{
     color: #81AFDD;
@@ -181,45 +182,22 @@ a:hover{
     width: 300px;
     height: 120px;
 }
-.cand{
-    margin-left: 12%;
+.firstrow ,.secrow{
+    width: 30%;
 }
-.gand{
-    margin-left: 39%;
-    margin-top: -19%;
-}
-.eand{
-    margin-left: 5%;
-    margin-top: -19%;
+.corrs{
+    margin-top: 20%;
 }
 .x{
     font-size: 13px;
     width: 50%;
 }
-.spanner{
+.corr{
     font-size: 12px;
+    margin-top: -37%;
+    margin-left: -13%;
 }
-.dd{
-    margin-top: -22%;
-}
-.rfp{
-    font-size: 10px;
-    margin-top: 6%;
-}
-.ss{
-    width: 20%;
-    margin-top: -9%;
-}
-.dd{
-    margin-top: -20%;
-    width: 20%;
-}
-.oc{
-    margin-top: 60%;
-}
-.gt{
-    margin-top: -7%;
-}
+
 .lassp{
     font-weight: 800;
 }
@@ -263,9 +241,7 @@ a:hover{
     margin-left: 13%;
     cursor: pointer !important;
 }
-.rfa{
-    margin-top: -5% !important;
-}
+
 .lassp{
     padding-top: 10%;
 }
@@ -317,6 +293,9 @@ a:hover{
     }
     .rexx{
         font-size: 10px;
+    }
+    .request{
+        margin-left: 20%;
     }
     .spantexts{
         margin-top: -82%;
@@ -387,8 +366,18 @@ a:hover{
         margin-top: -4%;
         margin-left: 15%;
     }
-    .sixthPage{
+    
+    .six{
         margin-top: 40%;
+    }
+    .firstrow,.secrow{
+        width: 95%;
+    }
+    .zerorow{
+        width: 95%;
+    }
+    .corrs{
+        margin-top: 42%;
     }
     .early,.beyond,.gst,.yet{
         width: 100%;
@@ -407,37 +396,10 @@ a:hover{
         height: 150px;
     }
     
-    .and{
-        margin-left: 95%;
-    }
-    .gand,.cand{
-        margin-top: -6%;
-        margin-left: 6%;
-    }
-    
-    .eand{
-        margin-top: 3%;
-        margin-left: 6%;
-    }
-    .ss{
-        margin-top: -26%;
-        margin-left: -4%;
-        width: 50%;
-        height: 100px;
-        font-size: 5px;
-    }
     .x,.y{
         font-size: 7px;
     }
-    .gt{
-        width: 200px;
-        margin-top: -20%;
-        margin-bottom: 22%;
-    }
-  .dd{
-    margin-top: -30%;
-    width: 50%;
-  }
+    
   .oc{
     margin-top: 4%;
   }
@@ -558,12 +520,7 @@ a:hover{
         width: 500px;
         height: 180px;
     }
-    .and{
-        padding-left: 10%;
-    }
-    .cand,.gand,.eand{
-        padding-left: 10%;
-    }
+    
     .e{
         padding-left: 13%;
     }
@@ -609,10 +566,10 @@ a:hover{
     .request{
         margin-left: 15%;
     }
-    .gsb{
+    /* .gsb{
         width: 60%;
         margin-top: -4%;
-    }
+    } */
     .future{
         margin-left: -10%;
     }
