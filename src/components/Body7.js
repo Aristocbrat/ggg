@@ -6,7 +6,7 @@ const Body7 = () => {
         <div className='mgg mt-3'>
         <div className='lasty'> 
         <p className='alot fs-lg-1 lassp mx-lg-auto ms-sm-5 ps-lg-0 '>Do you want to step in to the 
-        <span className='spanb ps-lg-5'>
+        <span className='spanb ps-lg-2'>
         future before others
             </span></p>
          </div>
