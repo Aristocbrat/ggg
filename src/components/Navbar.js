@@ -12,7 +12,7 @@ function BasicExample() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto ">
-            <Nav.Link href="#home" className='text-white mx-4' >Home</Nav.Link>
+            <Nav.Link href="#home" className='text-white mx-4 ' >Home</Nav.Link>
             <Nav.Link href="#link" className='text-white mx-4'>What is GPT?</Nav.Link>
             <Nav.Link href="#home" className='text-white mx-4'>OpenAi</Nav.Link>
             <Nav.Link href="#link" className='text-white mx-4'>CaseStudies</Nav.Link>

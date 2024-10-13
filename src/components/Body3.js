@@ -4,29 +4,29 @@ import rect from './../assests/images/Rect.png'
 
 const Body3 = () => {
   return (
-    <div className='thirdPage mt-lg-5 '>
+    <div className='thirdPage mt-lg-5  pb-5'>
        <div className='trifext d-flex flex-lg-row flex-column  '>
         <div>
-          <p className='future fw-semibold  py-3 py-lg-0 px-5 px-lg-0' data-aos="fade-up" data-aos-duration='1500'>
+          <p className='future fw-semibold  py-3 py-lg-0 px-3 px-lg-0' data-aos="fade-up" data-aos-duration='1500'>
           The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
           </p>
           <a href='#' className='request mt-lg-5 pt-5  '>Request Early Access to Get Started</a>
         </div>
-        <div className='all d-flex flex-column py-md-4 flex-wrap flex-md-row justify-content-md-between'>
-          <div firstline>
-          <img src={rect} className='pt-2 mx-auto mx-lg-0' alt='rectangle'/>
+        <div className='all d-flex flex-column py-md-4 flex-wrap  justify-content-md-between'>
+          <div className='d-flex'>
+          <img src={rect} className='pt-2 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
           <p className='text-white pple mx-auto mx-lg-0 pt-md-3'>Improving end distrusts instantly </p>
           </div>
-          <div firstline>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0' alt='rectangle'/>
+          <div className='d-flex'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0 '>Become the tended active</p>
           </div>
-          <div firstline>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0'  alt='rectangle'/>
+          <div className='d-flex'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4'  alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Message or am nothing</p>
           </div>
-          <div firstline>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0' alt='rectangle'/>
+          <div className='d-flex'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Really boy law county</p>
           </div>
         </div>

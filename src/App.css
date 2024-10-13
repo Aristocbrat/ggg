@@ -5,6 +5,7 @@
 *{
     font-family: "Manrope", sans-serif;
     box-sizing: border-box;
+    
 }
 .body{
     background: #040C18;
@@ -23,37 +24,32 @@
     background-color: green !important;
     transition: ease-in-out 0.4s ;
 }
-a:hover{
-    color: green;
-    transform: scale(1.4) !important;
-    transition: all ease-in-out 0.4s;
-}
+
 .firstpage{
     max-width: 95%;
     height: 100vh;
 }
 .letsbuild{
  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
- -webkit-background-clip: text;
+  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
- margin-left: 3%;
- font-size: 45px;
- width: 600px;
- line-height: 1.2
+ 
+ height: 100px;
+  
 }
 .line1, .line2, .line3 {
    max-width: 90%;
   }
 .headill{
-    height: 700px;
-    width: 700px;
-    margin-top: -4%;
-    margin-left: 42%;
+    height: 500px;
+    width: 500px;
+    margin-top: 2%;
+    margin-left: 22%;
 }
 .textSub{
     width: 38%;
     margin-top: -28%;
-    margin-left: 5%;
+    /* margin-left: 5%; */
     color: 
     rgba(129, 175, 221, 1);
 }
@@ -67,7 +63,7 @@ a:hover{
 .spantexts{
     font-size: 12px;
     margin-left: -3%;
-    margin-top: -1.5%;
+    margin-top: -9%;
 }
 .clogo{
     margin-top: 3%;
@@ -75,7 +71,7 @@ a:hover{
 }
 .secondPage {
     width: 90%;
-    height: 90vh;
+    height: 100vh;
     background: linear-gradient(to right,#0e3164,#0a182e ,#0e3164); 
     background-blend-mode: lighten;
 } 
@@ -227,8 +223,8 @@ a:hover{
 .sin{
     height: 70px;
     background:#0a182e !important;
-    margin-left: 30%;
-    margin-top: -114%;
+    margin-left: -173%;
+    margin-top: -210%;
 }
 .transparent-border {
     border: 1px solid transparent !important;
@@ -236,9 +232,9 @@ a:hover{
 .getstarted{
     background: #FF4820;
     width: 174px;
-    margin-top: -48%;
+    margin-top: -88%;
     height: 70px;
-    margin-left: 13%;
+    margin-left: -73%;
     cursor: pointer !important;
 }
 
@@ -249,47 +245,42 @@ a:hover{
 
 
 
-@media (min-width:340px) and (max-width:992px) {
-    /* .body{
-        background: #040C18;
-    } */
-    .letsbuild{
-        font-size: 15px;
-        margin:0 auto;
-    }
+@media (min-width:360px) and (max-width:420px) {
+    
     .e-g{
         width: 70%;
     }
     .sin{
-        margin-top: -185%;
+        margin-top: 5%;
         margin-left: 24%;
         width:20px;
-        height: 40px;
     }
     .getstarted{
-        margin-top: -160%;
+        margin-top: 5%;
         margin-left: 50%;
         width: 40%;
         height: 30px;
     }
     .headill{
-        width: 200px;
-        height: 200px;
-        margin: 70px 37px ; 
+        width: 300px;
+        height: 300px;
+        margin-top: -3%;
+        margin-left: 9%;
     }
     .subtext{
         width: 100%;
     }
     .textSub{
-        margin: -100% 3% 0 4%;
-        font-size: 10px;
-        width: 90%; 
+        margin-top: -60%;
+        font-size: 13px;
+        width: 100%; 
     }
     .groupfoto{
-        margin-top: -160%;
+        margin-top: 13%;
     }
     .future{
-        font-size: 12px;
+        font-size: 14px;
+        margin-left: -4%;
     }
     .rexx{
         font-size: 10px;
@@ -298,17 +289,17 @@ a:hover{
         margin-left: 20%;
     }
     .spantexts{
-        margin-top: -82%;
-        margin-left: 5%;
+        margin-top: 13%;
+        margin-left: 1%;
     }
     .clogo{
-        margin-top: -115%;
+        margin-top: -5%;
         margin-left: -10%;
     }
 
     .secondPage{
         width: 100%;
-        height: 100vh;
+        height: 800px ;
         margin-top: -50%;
     }
     .tri{
@@ -318,7 +309,7 @@ a:hover{
         margin-left: 25%;
     }
     .gpttext{
-        margin-left: 10%;
+        margin-left: 2%;
     }
     .onep{
         width: 90%;
@@ -343,12 +334,13 @@ a:hover{
     .wom{
         margin-left: 22%;
         width: 90%;
-        margin-top: -2%;
+        /* margin-top: -2%; */
+        margin-top: 27%;
     }
     .yy{
-        margin-top: 200%;
-        margin-left: 27%;
-        width: 50%;
+        margin-top: 210%;
+        margin-left: 7%;
+        /* width: 50%; */
         height: 10%;
     }
     .beyond{
@@ -356,7 +348,7 @@ a:hover{
         font-size: 12px;
     }
     .ctaa{
-        margin-top: 130%;
+        margin-top: 80%;
         height: 140px;
     }
     .req{
@@ -372,9 +364,11 @@ a:hover{
     }
     .firstrow,.secrow{
         width: 95%;
+        margin-left: 5%;
     }
     .zerorow{
         width: 95%;
+        margin-left: 8%;
     }
     .corrs{
         margin-top: 42%;
@@ -433,45 +427,84 @@ a:hover{
 
 } 
 
-@media (min-width:700px) and (max-width:1024px) {
+@media (min-width:768px) and (max-width:1024px) {
     .letsbuild{
-        font-size: 30px;
+        font-size: 27px !important;
+       
     }
     .headill{
         width:650px;
-        height: 600px;
+        height: 570px;
         margin-left: 5%;
     }
+
+    .textSub{
+        margin-top: -10%;
+        font-size: 20px;
+        width: 95%; 
+        margin-left: 3%;
+        
+    }
+
     .clogo{
-        margin-top: -145%;
+       
+        margin-top: -95%;
     }
     .groupfoto{
-        margin-top: -173%;
+        margin-top: 3%;
     }
     .sin{
-        margin-top: -154%;
+       
+        margin-left: -10%;
+        margin-top: -30%;
     }
+ 
     .getstarted{
-        margin-top: -135%;
+        margin-top: -8%;
+        margin-left: 24%;
+        padding-top: 4%;
+    }
+    .e-g{
+        margin-top: 20%;
+        margin-left: 20%;
+    }
+    
+    .secondPage{
+        width: 100%;
+        height: 700px;
     }
     .spantexts{
-        margin-top: -87%;
+        margin-top: 4%;
         margin-left: 10%;
         font-size: 15px;
     }
-    .textSub{
-        font-size: 20px;
-        margin-top: -45%;
+   .request{
+    margin-left: 30%;
+    font-size: 15px;
+   } 
+   .all{
+      margin-top: -19%;
+   }
+    
+   .fourthPage{
+    margin-top: 88%;
+   }
+    .zerorow{
         margin-left: 5%;
     }
-    .e-g{
-        margin-top: 85%;
-        position: relative;
-    }
-    .secondPage{
-        margin-top: -70%;
-        height: 65vh;
-    }
+   .firstrow,.secrow{
+    margin-left: 10% !important;
+   }
+   .corrs{
+    margin-top: 30%;
+   }
+   .corr {
+    margin-top: -100%;
+    width: 400px;
+   }
+   .mmg{
+    width: 100%;
+   }
     .wigpt{
         margin-top: 13%;
     }
@@ -482,14 +515,14 @@ a:hover{
         font-size: 27px;
     }
     .future{
-        width: 90%;
+        width: 100%;
     }
     .from{
         margin-top: -17%;
     }
     .evr4{
         margin-top: -68%;
-        margin-left: -17%;
+        margin-left: 3%;
     }
     .yy{
         margin-top: -40%;
@@ -500,7 +533,7 @@ a:hover{
         margin-top:10%;
     }
     .alot{
-        width: 90%;
+        width: 100%;
         font-size: 30px;
     }
     .sixthPage{
@@ -535,30 +568,79 @@ a:hover{
         margin-top: 8%;
     }
     .mi {
-        width: 50%;
-        margin-top: -6%;
+        width: 30%;
+        margin-top: 16%;
+        margin-left: 5%;
     }
     .spanlist{
-        margin-top: -7%;
+        margin-top: -24%;
+        margin-left: 60%;
+    }
+    .lasty{
+        margin-left: 15%;
+        width: 70%;
+        
     }
     .lassp{
-        width: 70%;
-        margin-left: 20%;
+        width:400px !important;
+        margin-left: 70px !important;
+        font-size: 26px;
+    
+        
     }
     .ll{
-        width: 230px;
-        margin:0 auto;
+        width: 100%;
+        margin-left: 40%;
     }
 
 }
-@media (max-width:375px) {
+@media (max-width:360px) {
     .subtext{
-        margin-top: 50%;
+        margin-top: -9%;
     }
+    .textSub{
+        width: 85% ;
+        margin-left: 6%;
+    }
+    .gp{
+        margin-left: -7%;
+    }
+
+ .future{
+    margin-top: -32% !important ;
+    margin-left: -5% !important;
+ }
+ .fourthPage{
+    margin-top: -20% !important;
+ }
+ .yet{
+    width: 95%;
+    font-size: 12px;
+    margin-left: -3.5%;
+ }
+ .d{
+    height: 140px !important;
+ }
+ .corr{
+    margin-top: -45%;
+ }
+ .firstrow , .secrow{
+    margin-left: 3%;
+ }
+ .zerorow{
+    margin-left: 4%;
+ }
+
+ .wom{
+    margin-top: -5%;
+ }
     .popo{
         background-color: #0e3164 !important;
         width: 100%;
         border: transparent;
+    }
+    .secondPage{
+        height: 900px !important;
     }
     .thirdPage{
         margin-top: 50%;
@@ -566,23 +648,18 @@ a:hover{
     .request{
         margin-left: 15%;
     }
-    /* .gsb{
-        width: 60%;
-        margin-top: -4%;
-    } */
+    
     .future{
         margin-left: -10%;
     }
-    .fourthPage{
-        margin-top: 50%;
-    }
+    
     .lastPage{
         padding: 0 15px;
         margin-top: -10%;
     }
     .lassp{
         margin: 0 auto;
-        font-size: 13px;
+        font-size: 18px;
     }
     .rea{
         margin-left: -60%;
@@ -590,7 +667,15 @@ a:hover{
     }
     .ll{
         margin-left: 9%;
-        width: 80%;
+        width: 100%;
     }
 }
 
+@media (max-width:393px) {
+    .textSub{
+        margin-top: -70%;
+    }
+    .gp{
+        margin-left: -7%;
+    }
+}

@@ -4,16 +4,16 @@ import rect from './../assests/images/Rect.png'
 
 const Body2 = () => {
   return (
-    <div className='secondPage mx-lg-auto'> 
+    <div className='secondPage mx-lg-auto mt-4 mt-lg-3 '> 
       <img src={rect} className="p-lg-5"  alt='rectangle'/>
       <div className='wigpt d-flex flex-column flex-lg-row justify-content-between px-lg-4 px-2'>
         <p className='fw-bold ppt text-white fs-lg-4 ms-lg-3 py-md-4'>What is GPT-3</p>
-        <p className=' gpttext w-75 px-lg-4 px-md-4 px-4 py-2  py-lg-0'>We so opinion friends me message as delight.
+        <p className=' gpttext w-lg-75 w-100 px-lg-4 px-md-4 px-4 py-4  py-lg-0'>We so opinion friends me message as delight.
            Whole front do of plate heard oh ought. His defective nor convinced residence own. 
            Connection has put impossible own apartments boisterous.
             At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.</p>
       </div>
-      <div className='posses d-flex justify-content-evenly justify-content-lg-between py-md-4' >
+      <div className='posses d-flex justify-content-evenly justify-content-lg-between py-md-4 py-3' >
         <p className='poss fw-bold  w-50 mt-lg-5 mt-2 ms-lg-5 '>The possibilities are beyond your imagination</p>
         <p className='explore w-25 mt-lg-5 pt-lg-5 mt-md-5'><a href='/' className='text-decoration-none'>Explore The Library</a></p>
       </div>
@@ -29,7 +29,7 @@ const Body2 = () => {
         <p className='w-100 px-4 px-lg-0 ms-2 ms-lg-0 opinion'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.
            As put impossible own apartments b. </p>
       </div>
-      <div className='mt-lg-5 px-lg-4 ms-lg-5 po popo px-4' >
+      <div className='mt-lg-5 px-lg-4 ms-lg-5 po  px-4' >
         <img src={rect} alt='rectangle'/>
         <h4 className='text-white mx-5 mx-lg-0 px-5 px-lg-0 edu'>Education</h4>
         <p className='w-100 px-lg-0 px-5 ms-2 ms-lg-0  opinion'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.

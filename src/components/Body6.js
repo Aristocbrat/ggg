@@ -12,7 +12,7 @@ import rectea from './../assests/images/Rectea.png'
 const Body6 = () => {
   return (
       <div className='d-flex flex-column flex-lg-row  w-100 px-3 py-5 six  text-white '>
-            <div className=' d-flex flex-column m-auto px-lg-5 px-md-5  py-3 zerorow'>
+            <div className=' d-flex flex-column m-lg-auto px-lg-5 px-md-5  py-3 zerorow'>
 
                   <div className="position-relative">
                   <img src={rectas} className='a' /> 
@@ -25,7 +25,7 @@ const Body6 = () => {
                   </section>
                
             </div>
-            <div className='d-flex flex-column m-lg-auto m-md-auto gap-4 px-lg-5 px-md-5 px-2  firstrow'>
+            <div className='d-flex flex-column m-lg-auto  gap-4 px-lg-5 px-md-5 px-2  firstrow'>
                <div className='py-4 position-relative'> 
                <img src={rectba}  className='c' alt='c'/>
                <img src={rbb} className='d' alt='d'/>
@@ -45,7 +45,7 @@ const Body6 = () => {
                 </section>
                 </div>
             </div>
-            <div className='d-flex flex-column m-lg-auto m-md-auto gap-4 px-2 px-lg-5 px-md-5  secrow'>
+            <div className='d-flex flex-column m-lg-auto gap-4 px-2 px-lg-5 px-md-5  secrow'>
                 <div className='py-4 position-relative'>
                 <img src={rectda} className='c' alt='g' />
                  <img src={rbb} className='d' alt='d'/>

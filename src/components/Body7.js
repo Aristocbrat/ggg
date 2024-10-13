@@ -3,9 +3,9 @@ import React from 'react'
 const Body7 = () => {
   return (
     <div className='lastPage w-100 h-100 '>
-        <div className='mgg mt-5'>
+        <div className='mgg mt-3'>
         <div className='lasty'> 
-        <p className='alot fs-lg-1 lassp mx-lg-auto ps-5 ps-lg-0 '>Do you want to step in to the <br/>
+        <p className='alot fs-lg-1 lassp mx-lg-auto ms-sm-5 ps-lg-0 '>Do you want to step in to the 
         <span className='spanb ps-lg-5'>
         future before others
             </span></p>
@@ -17,8 +17,8 @@ const Body7 = () => {
             <div className='w-100 mt-5 justify-content-between d-flex  flex-lg-row  flex-column'>
                 <div className='ggff  mx-lg-auto px-3 px-lg-0 '>
                     <div className='mi'>
-                    <h4 className='text-white fw-bold'>GPT-3</h4>
-                    <p className='text-white w-25 cren'>Crechterwoord K12 182 DK Alknjkcb,
+                    <h4 className='text-white fw-bold w-100'>GPT-3</h4>
+                    <p className='text-white w-25 cren w-50'>Crechterwoord K12 182 DK Alknjkcb,
                          All Rights Reserved</p>
                          </div>
                     <div className='d-flex justify-content-evenly w-50 spanlist gap-lg-5 gap-3'>
