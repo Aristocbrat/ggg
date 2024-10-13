@@ -13,20 +13,20 @@ const Body3 = () => {
           <a href='#' className='request mt-lg-5 pt-5  '>Request Early Access to Get Started</a>
         </div>
         <div className='all d-flex flex-column py-md-4 flex-wrap  justify-content-md-between'>
-          <div className='d-flex'>
-          <img src={rect} className='pt-2 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
+          <div className='d-flex gap-lg-3'>
+          <img src={rect} className='pt-2 mx-auto mx-lg-0   w-25 mt-sm-4 rectangle' alt='rectangle'/>
           <p className='text-white pple mx-auto mx-lg-0 pt-md-3'>Improving end distrusts instantly </p>
           </div>
-          <div className='d-flex'>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
+          <div className='d-flex gap-lg-3'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-25 w-25 mt-sm-4 rectangle' alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0 '>Become the tended active</p>
           </div>
-          <div className='d-flex'>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4'  alt='rectangle'/>
+          <div className='d-flex gap-lg-3'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 w-25 h-25 mt-sm-4 rectangle'  alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Message or am nothing</p>
           </div>
-          <div className='d-flex'>
-          <img src={rect} className='pt-3 mx-auto mx-lg-0 h-50 mt-4' alt='rectangle'/>
+          <div className='d-flex gap-lg-3'>
+          <img src={rect} className='pt-3 mx-auto mx-lg-0 w-25 h-25 mt-sm-4 rectangle' alt='rectangle'/>
           <p className='text-white ppl pt-3 mx-auto mx-lg-0'>Really boy law county</p>
           </div>
         </div>

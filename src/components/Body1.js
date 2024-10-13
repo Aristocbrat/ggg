@@ -10,7 +10,7 @@ const Body1 = () => {
   return (
     <div >
       <div className='firstpage   d-flex flex-lg-row flex-column  w-100  '>
-      <p className=' w-100 fs-lg-2 fs-sm-5 mt-5 ms-lg-5 ms-md-5
+      <p className=' w-100  fs-sm-5 mt-5 ms-lg-5 ms-md-5
         ms-3 fw-bold d-lg-flex d-flex ml-3  position-relative  letsbuild '>
       Let’s Build Something
       amazing with GPT-3 OpenAI
@@ -25,7 +25,7 @@ const Body1 = () => {
          <form >
            <input  placeholder="Your email address" type="email"  className='sin   form-control  transparent-border '  />
          </form>
-         <button className=' text-white getstarted d-flex align-content-center  pt-lg-4 justify-content-center  '>Get started</button>
+         <button className=' text-white getstarted d-flex align-content-center rounded-3  pt-lg-4 justify-content-center  '>Get started</button>
          </div>
         
         

@@ -28,13 +28,15 @@
 .firstpage{
     max-width: 95%;
     height: 100vh;
+
 }
 .letsbuild{
  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
   -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
- 
+ font-size: 30px;
  height: 100px;
+
   
 }
 .line1, .line2, .line3 {
@@ -84,6 +86,9 @@
 }
 .poss{
     font-size: 2.8rem;
+}
+.rectangle{
+    height: 13px !important;
 }
 .poss,.explore,.future,.request,.beyond,.alot{
     background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
@@ -222,9 +227,10 @@
 }
 .sin{
     height: 70px;
+   
     background:#0a182e !important;
-    margin-left: -173%;
-    margin-top: -210%;
+    margin-left: 6%;
+    margin-top: -103%;
 }
 .transparent-border {
     border: 1px solid transparent !important;
@@ -232,9 +238,9 @@
 .getstarted{
     background: #FF4820;
     width: 174px;
-    margin-top: -88%;
+    margin-top: -43%;
     height: 70px;
-    margin-left: -73%;
+    margin-left: 3%; 
     cursor: pointer !important;
 }
 
@@ -393,6 +399,10 @@
     .x,.y{
         font-size: 7px;
     }
+
+    .gp{
+        margin-left: -2%;
+    }
     
   .oc{
     margin-top: 4%;
@@ -416,6 +426,14 @@
     margin-top: -30%;
     margin-left: 36%;
   }
+  .lasty{
+    margin-left: 15%;
+    width: 70%;
+    
+}
+.lassp{
+    font-size: 15px;
+}
 .lastPage{
     margin-top: 20%;
 }   
