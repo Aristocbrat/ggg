@@ -11,14 +11,14 @@ const Body1 = () => {
     <div >
       <div className='firstpage   d-flex flex-lg-row flex-column  w-100  '>
       <p className=' w-100  fs-sm-5 mt-5 ms-lg-5 ms-md-5
-        ms-3 fw-bold d-lg-flex d-flex ml-  position-relative overflow-hidden  letsbuild  '>
+        ms-3 fw-bold d-lg-flex d-flex ml-  position-relative   letsbuild  '>
       Let’s Build Something
       amazing with GPT-3 OpenAI
       </p>
       <img src={headill} className=' headill  position-relative ' alt='header illustration' data-aos="fade-up" data-aos-duration='1500'/>
     </div>
     <div className='subtext px-lg-5 d-flex flex-column '>
-       <p className='textSub  position-relative  px-2 px-lg-0 py-md-4'>Yet bed any for travelling assistance indulgence unpleasing. 
+       <p className='textSub  position-relative  px-2 px-lg-0 py-md-4 overflow-hidden'>Yet bed any for travelling assistance indulgence unpleasing. 
         Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.
          Party we years to order allow asked of.</p>
          <div className='d-flex e-g flex-column flex-lg-row flex-md-column ' >

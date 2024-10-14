@@ -254,6 +254,7 @@
 @media (min-width:360px) and (max-width:420px) {
     .letsbuild{
         width: 95%;
+
     }
     .e-g{
         width: 70%;
@@ -615,15 +616,18 @@
 
 }
 @media (max-width:360px) {
+    
     .subtext{
         margin-top: -9%;
     }
     .textSub{
         width: 85% ;
         margin-left: 6%;
+      
     }
     .gp{
         margin-left: -7%;
+        
     }
 
  .future{
@@ -632,6 +636,7 @@
  }
  .fourthPage{
     margin-top: -20% !important;
+   
  }
  .yet{
     width: 95%;
@@ -646,21 +651,27 @@
  }
  .firstrow , .secrow{
     margin-left: 3%;
+   
  }
  .zerorow{
     margin-left: 4%;
+    
  }
 
  .wom{
     margin-top: -5%;
  }
-    .popo{
+    /* .popo{
         background-color: #0e3164 !important;
         width: 100%;
         border: transparent;
+    } */
+    .po{
+        width: 90%;
     }
     .secondPage{
-        height: 900px !important;
+       
+        height: 800px !important;
     }
     .thirdPage{
         margin-top: 50%;
@@ -671,13 +682,24 @@
     
     .future{
         margin-left: -10%;
+        width: 95%;
+        
     }
-    
+    .yy{
+        width: 95%;
+    }
+    .early{
+        width: 90%;
+    }
+    .beyond{
+        width: 80%;
+    }
     .lastPage{
         padding: 0 15px;
         margin-top: -10%;
     }
     .lassp{
+        background: yellow;
         margin: 0 auto;
         font-size: 18px;
     }
@@ -686,8 +708,9 @@
         width: 200px;
     }
     .ll{
+        
         margin-left: 9%;
-        width: 100%;
+        width: 90%;
     }
 }
 

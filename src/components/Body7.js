@@ -2,7 +2,7 @@ import React from 'react'
 
 const Body7 = () => {
   return (
-    <div className='lastPage w-100 h-100 '>
+    <div className='lastPage w-100 h-100  overflow-hidden'>
         <div className='mgg mt-3'>
         <div className='lasty'> 
         <p className='alot fs-lg-1 lassp mx-lg-auto ms-sm-5 ps-lg-0 '>Do you want to step in to the 

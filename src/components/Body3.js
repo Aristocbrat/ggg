@@ -4,10 +4,10 @@ import rect from './../assests/images/Rect.png'
 
 const Body3 = () => {
   return (
-    <div className='thirdPage mt-lg-5  pb-5'>
+    <div className='thirdPage mt-lg-5  pb-5 overflow-hidden'>
        <div className='trifext d-flex flex-lg-row flex-column  '>
         <div>
-          <p className='future fw-semibold  py-3 py-lg-0 px-3 px-lg-0' data-aos="fade-up" data-aos-duration='1500'>
+          <p className='future fw-semibold  py-3 py-lg-0 px-1 px-lg-0' data-aos="fade-up" data-aos-duration='1500'>
           The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
           </p>
           <a href='#' className='request mt-lg-5 pt-5  '>Request Early Access to Get Started</a>

@@ -11,11 +11,11 @@ import rectea from './../assests/images/Rectea.png'
 
 const Body6 = () => {
   return (
-      <div className='d-flex flex-column flex-lg-row  w-100 px-3 py-5 six  text-white '>
+      <div className='d-flex flex-column flex-lg-row  w-100 px-3 py-5 six  text-white  overflow-hidden'>
             <div className=' d-flex flex-column m-lg-auto px-lg-5 px-md-5  py-3 zerorow'
              data-aos="fade-up" data-aos-duration="2000">
 
-                  <div className="position-relative">
+                  <div className="position-relative overflow-hidden">
                   <img src={rectas} className='a' /> 
                   <img src={rectb} className='a ba' />
                   </div>
@@ -30,8 +30,8 @@ const Body6 = () => {
             data-aos="fade-down" data-aos-duration="2000" data-aos-delay="350">
                <div className='py-4 position-relative'> 
                <img src={rectba}  className='c' alt='c'/>
-               <img src={rbb} className='d' alt='d'/>
-               <section className='position-absolute corr px-5 py-2 py-lg-0'>
+               <img src={rbb} className='d' alt='d'/> 
+               <section className='position-absolute corr px-5 py-2 py-lg-0 overflow-hidden'>
                <p>Sep 26, 2021</p>
                   <p>GPT-3 and Open  AI is the future. Let us exlore how it is?</p>
                   <a href='' className='text-deoration-none text-white'>Read Full Article</a>     

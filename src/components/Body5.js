@@ -3,7 +3,7 @@ import React from 'react'
 
 const Body5 = () => {
   return (
-    <div className='mt-lg-5 ps-lg-4 px-3 ctaa rounded  '>
+    <div className='mt-lg-5 ps-lg-4 px-3 ctaa rounded  overflow-hidden '>
       <div className='d-flex justify-content-lg-between flex-column flex-lg-row py-2 px-5 py-lg-4 bodyfive'> 
         <div className='rex' >
         <a href='#' className='text-decoration-none text-black '>Request Early Access to Get Started</a>

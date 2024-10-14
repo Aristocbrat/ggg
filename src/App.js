@@ -13,7 +13,7 @@ import Body7 from './components/Body7'
 
 function App() {
   return (
-    <div className="body overflow-hidden">
+    <div className="body">
      <BasicExample/>
      <Body1/>
      <Body2/>

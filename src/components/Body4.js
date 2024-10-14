@@ -3,7 +3,7 @@ import wom from './../assests/images/wom.png'
 
 const Body4 = () => {
   return (
-    <div className='fourthPage d-flex flex-lg-row flex-column  w-100 pt-lg-5  justify-content-center'>
+    <div className='fourthPage d-flex flex-lg-row flex-column  w-100 pt-lg-5  justify-content-center '>
         <div  className='w-75 evr4'>
         <img src={wom} className='wom ' alt='woman' data-aos="fade-up" data-aos-duration='1500'/>
         </div>
