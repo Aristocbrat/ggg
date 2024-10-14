@@ -11,7 +11,7 @@ const Body1 = () => {
     <div >
       <div className='firstpage   d-flex flex-lg-row flex-column  w-100  '>
       <p className=' w-100  fs-sm-5 mt-5 ms-lg-5 ms-md-5
-        ms-3 fw-bold d-lg-flex d-flex ml-3  position-relative  letsbuild '>
+        ms-3 fw-bold d-lg-flex d-flex ml-3  position-relative overflow-hidden  letsbuild  '>
       Let’s Build Something
       amazing with GPT-3 OpenAI
       </p>
